@@ -1,0 +1,29 @@
+[package]
+name = "blinky_led_std_version"
+version = "0.1.0"
+authors = ["kitili"]
+edition = "2021"
+resolver = "2"
+
+[[bin]]
+name = "my_binary"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = "s"
+
+[profile.dev]
+debug = true
+opt-level = "z"
+
+[features]
+
+pio = ["esp-idf-sys/pio"]
+
+[dependencies]
+esp-idf-sys = { version = "0.32", features = ["binstart"] }
+esp-idf-hal = "0.40"
+esp-println = { version = "0.3.1", features = ["esp32c3"] }
+
+[build-dependencies]
+embuild = "0.30.4"

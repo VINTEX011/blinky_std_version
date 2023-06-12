@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\blinky std version\target\debug\deps\remove_dir_all-d6f2a8698592eace.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\io.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\path_components.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\win.rs
+
+C:\Users\PC\Desktop\blinky std version\target\debug\deps\libremove_dir_all-d6f2a8698592eace.rlib: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\io.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\path_components.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\win.rs
+
+C:\Users\PC\Desktop\blinky std version\target\debug\deps\remove_dir_all-d6f2a8698592eace.d: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\io.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\path_components.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\win.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\io.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\path_components.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\remove_dir_all-0.8.2\src\_impl\win.rs:

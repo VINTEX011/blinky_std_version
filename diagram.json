@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "author": "kitili",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-c3-devkitm-1",
+      "id": "esp",
+      "top": -101.24,
+      "left": -4.28,
+      "attrs": { "builder": "rust-std-esp" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -63.32,
+      "left": 179.58,
+      "attrs": { "color": "red", "flip": "1" }
+    }
+  ],
+  "connections": [
+    [ "esp:8", "led1:A", "green", [ "v-1.1", "h32.4" ] ],
+    [ "esp:GND", "led1:C", "black", [] ],
+    [ "led1:C", "esp:GND.8", "green", [ "v5.47", "h-128.1" ] ]
+  ],
+  "serialMonitor": { "display": "terminal" },
+  "dependencies": {}
+}

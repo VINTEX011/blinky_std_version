@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\blinky std version\target\debug\deps\cargo_metadata-df2dbbccbdb3cc48.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\PC\Desktop\blinky std version\target\debug\deps\libcargo_metadata-df2dbbccbdb3cc48.rlib: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\PC\Desktop\blinky std version\target\debug\deps\cargo_metadata-df2dbbccbdb3cc48.d: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\dependency.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\diagnostic.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\errors.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo_metadata-0.15.4\src\messages.rs:
